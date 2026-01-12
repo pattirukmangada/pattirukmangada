@@ -151,7 +151,7 @@ Product listing and interactive UI‑based e‑commerce interface.
 
 ## 📞 Contact Information
 
-- **Phone:** [+91 9515692040] (tel+:9515692040)
+- **Phone:** +91 9515692040
 - **Email:** [pattirukmangada2002@gmail.com](mailto\:pattirukmangada2002@gmail.com)
 - **Academic Email:** [20am1a3128@svrec.ac.in](mailto:20am1a3128@svrec.ac.in)
 - **Location:** Allagadda, Andhra Pradesh, India
