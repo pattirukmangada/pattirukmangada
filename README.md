@@ -12,7 +12,7 @@ Motivated and detail‑oriented Java Full‑Stack Developer with hands‑on expe
 - **Profession:** Java Full‑Stack / Web Developer
 - **Nationality:** Indian
 - **Location:** Allagadda, Andhra Pradesh, India
-- **Education:** B.E. in Artificial Intelligence (2020–2024)
+- **Education:** B.TECH. in Artificial Intelligence (2020–2024)
 - **Experience:** 1+ year (Training + Internship)
 
 I am passionate about creating user‑centric digital experiences and scalable backend systems. I enjoy working across the full development lifecycle—from requirement analysis and UI design to backend development, testing, and deployment. I am a quick learner, team‑oriented professional, and actively building expertise in cloud and DevOps practices.
